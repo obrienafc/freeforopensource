@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> **This project has moved to [obrienafc/foss](https://github.com/obrienafc/foss)** and is now a searchable website at **[foss.patrickob.me](https://foss.patrickob.me)**.
+> **This project has moved to [obrienafc/foss](https://github.com/obrienafc/foss)** and is now a searchable website at **[foss.patrickob.tech](https://foss.patrickob.tech)**.
 > The list below is from 2021 and is no longer maintained. Many offers have since changed or ended.
 
 <p align="center">
