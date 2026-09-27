@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **This project has moved to [obrienafc/foss](https://github.com/obrienafc/foss)** and is now a searchable website at **[foss.patrickob.me](https://foss.patrickob.me)**.
+> The list below is from 2021 and is no longer maintained. Many offers have since changed or ended.
+
 <p align="center">
   <img src="https://patrickobriain.github.io/freeforopensource/assets/logo/main-green.svg" alt="Free for Open Source logo" width="450" />
   </p>
